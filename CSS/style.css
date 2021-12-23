@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+*{
+    box-sizing: border-box;
+ }
+
+.header{ 
+    border: 1px aquamarine;
+    padding: 15px;
+}
+.intro { 
+    width: 25%;
+    float:left;
+    padding: 15px;
+    border: 1px black;
+}
+
+.main { 
+    width: 75%;
+    float: left;
+    padding: 15px;
+    border: 1px black;
+}
+</style>
+</head>
+<
