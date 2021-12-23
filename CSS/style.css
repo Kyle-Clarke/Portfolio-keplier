@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
 
-<style>
+
+
 *{
     box-sizing: border-box;
  }
@@ -18,12 +16,10 @@
     border: 1px black;
 }
 
-.main { 
+.Chunk { 
     width: 75%;
     float: left;
     padding: 15px;
     border: 1px black;
 }
-</style>
-</head>
-<
+
