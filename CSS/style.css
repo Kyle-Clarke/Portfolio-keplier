@@ -2,11 +2,11 @@
 
 
 
-
-.header{ 
+.header { 
     border: 1px aquamarine;
     padding: 15px;
 }
+
 .intro { 
     width: 25%;
     float:left;
@@ -21,7 +21,7 @@
     border: 1px black;
 }
 
-.hero{
+.hero {
     min-height: 100vh;
     width: 100%;
     background-color: black;
