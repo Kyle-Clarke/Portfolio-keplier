@@ -1,9 +1,7 @@
 
 
 
-*{
-    box-sizing: border-box;
- }
+
 
 .header{ 
     border: 1px aquamarine;
@@ -23,3 +21,25 @@
     border: 1px black;
 }
 
+.hero{
+    min-height: 100vh;
+    width: 100%;
+    background-color: black;
+    background-image: url(https://tenor.com/view/anime-spinning-chair-gif-15454620);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    
+}
+
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1rem;
+}
+img,video{
+    width: auto; 
+    height: auto;
+    max-width: 100%; 
+}
